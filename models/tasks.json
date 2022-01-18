@@ -1,0 +1,165 @@
+[
+  {
+    "id": 0,
+    "title": "Benchmark",
+    "description": "",
+    "creationDate": "2021-11-16T18:29:12.786Z",
+    "users": [
+      2
+    ],
+    "categories": [
+      2,
+      3
+    ],
+    "attachments": [
+      0,
+      1
+    ],
+    "comments": [],
+    "pic": "",
+    "section": 0
+  },
+  {
+    "id": 1,
+    "title": "Books",
+    "description": "",
+    "creationDate": "2021-11-17T18:29:12.786Z",
+    "users": [
+      5,
+      6
+    ],
+    "categories": [
+      0,
+      3,
+      4
+    ],
+    "attachments": [
+      2,
+      3,
+      4
+    ],
+    "comments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pic": "/img/6YvCw0v7LXM.jpg",
+    "section": 0
+  },
+  {
+    "id": 2,
+    "title": "Landing page",
+    "description": "",
+    "creationDate": "2021-12-01T18:29:12.786Z",
+    "users": [
+      3,
+      0,
+      2
+    ],
+    "categories": [
+      0,
+      2,
+      3
+    ],
+    "attachments": [],
+    "comments": [],
+    "pic": "",
+    "section": 0
+  },
+  {
+    "id": 3,
+    "title": "Conceptboard",
+    "description": "",
+    "creationDate": "2021-12-01T18:29:12.786Z",
+    "users": [
+      0,
+      2
+    ],
+    "categories": [
+      0
+    ],
+    "attachments": [],
+    "comments": [],
+    "pic": "",
+    "section": 1
+  },
+  {
+    "id": 4,
+    "title": "UX Experience",
+    "description": "",
+    "creationDate": "2021-12-25T18:29:12.786Z",
+    "users": [
+      6,
+      2
+    ],
+    "categories": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "attachments": [],
+    "comments": [],
+    "pic": "/img//NqU6zbLxIk0.jpg",
+    "section": 1
+  },
+  {
+    "id": 5,
+    "title": "Information",
+    "description": "",
+    "creationDate": "2022-01-06T18:29:12.786Z",
+    "users": [
+      2
+    ],
+    "categories": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "attachments": [],
+    "comments": [],
+    "pic": "/img//TeC5pm55CkE.jpg",
+    "section": 2
+  },
+  {
+    "id": 6,
+    "title": "Moodboard",
+    "description": "",
+    "creationDate": "2022-01-22T18:29:12.786Z",
+    "users": [
+      0,
+      4
+    ],
+    "categories": [
+      0,
+      2,
+      4
+    ],
+    "attachments": [],
+    "comments": [],
+    "pic": "",
+    "section": 3
+  },
+  {
+    "id": 7,
+    "title": "Cardsorting",
+    "description": "",
+    "creationDate": "2022-01-31T18:29:12.786Z",
+    "users": [
+      3,
+      2
+    ],
+    "categories": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "attachments": [],
+    "comments": [],
+    "pic": "/img//qWwpHwip31M.jpg",
+    "section": 3
+  }
+]
