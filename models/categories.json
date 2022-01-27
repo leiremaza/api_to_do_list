@@ -2,31 +2,26 @@
     {
         "id": 0,
         "name": "general",
-        "color": "grey"
+        "color": "#ACAFC2"
     },
     {
         "id": 1,
         "name": "development",
-        "color": "red"
+        "color": "#FF2121"
     },
     {
         "id": 2,
         "name": "design",
-        "color": "orange"
+        "color": "#FAAB35"
     },
     {
         "id": 3,
         "name": "techniques",
-        "color": "green"
+        "color": "#57C238"
     },
     {
         "id": 4,
         "name": "reserach",
-        "color": "blue"
-    },
-    {
-        "id": 5,
-        "name": "planification",
-        "color": "purple"
+        "color": "#2191FF"
     }
 ]
