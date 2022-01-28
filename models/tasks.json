@@ -161,29 +161,5 @@
     "comments": [],
     "pic": "/img//qWwpHwip31M.jpg",
     "section": 3
-  },
-  {
-    "id": 8,
-    "title": "Title",
-    "description": "",
-    "creationDate": "2022-01-21T12:53:02.441Z",
-    "users": [],
-    "categories": [],
-    "attachments": [],
-    "comments": [],
-    "pic": "",
-    "section": 2
-  },
-  {
-    "id": 9,
-    "title": "Title",
-    "description": "",
-    "creationDate": "2022-01-27T15:48:07.019Z",
-    "users": [],
-    "categories": [],
-    "attachments": [],
-    "comments": [],
-    "pic": "",
-    "section": 1
   }
 ]
